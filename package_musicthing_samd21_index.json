@@ -11,20 +11,20 @@
 
                 {
                     "architecture": "samd",
-                    "archiveFileName": "musicthing-samd-0.1.zip",
+                    "archiveFileName": "musicthing_samd_0.1.tar.bz2",
                     "boards": [
                        
                         {
                             "name": "Music Thing Modular MusicThing m0"
                         }
                     ],
-                    "category": "Adafruit",
-                    "checksum": "SHA-256:dd79397eb1e2866e8bc5be0032d7e15787aa7158f87d0d71b624ba1f39853c8a",
+                    "category": "Music Thing",
+                    "checksum": "SHA-256:53d5418aafd61a41b3e8cf4957749b23db82e8c89975c6004462f5287e38637b",
                     "help": {
                         "online": "https://www.musicthing.co.uk"
                     },
-                    "name": "Adafruit SAMD Boards",
-                    "size": "1546852",
+                    "name": "Music Thing SAMD Boards",
+                    "size": "1069268",
                     "toolsDependencies": [
                         {
                             "name": "arm-none-eabi-gcc",
@@ -57,7 +57,7 @@
                             "version": "1.2.0"
                         }
                     ],
-                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing-samd-0.1.zip?raw=true",
+                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.tar.bz2?raw=true",
                     "version": "0.1"
                 }
             ],
