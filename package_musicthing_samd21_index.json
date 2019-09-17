@@ -11,7 +11,7 @@
 
                 {
                     "architecture": "samd",
-                    "archiveFileName": "musicthing_samd_0.zip",
+                    "archiveFileName": "musicthing_samd_0.1.1.zip",
                     "boards": [
                        
                         {
@@ -19,12 +19,12 @@
                         }
                     ],
                     "category": "Music Thing",
-                    "checksum": "SHA-256:eab006cd6bcbffb16e28946e92db29025d3222a3a03cbf9406d474f108cf7951",
+                    "checksum": "SHA-256:c3d6437b55b02ba51949b45a8422c04d51a473ee75230f52e55007c76bf2d608",
                     "help": {
                         "online": "https://www.musicthing.co.uk"
                     },
                     "name": "Music Thing SAMD Boards",
-                    "size": "1398593",
+                    "size": "1357029",
                     "toolsDependencies": [
                         {
                             "name": "arm-none-eabi-gcc",
@@ -57,7 +57,7 @@
                             "version": "1.2.0"
                         }
                     ],
-                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.zip?raw=true",
+                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.1.zip?raw=true",
                     "version": "0.1"
                 }
             ],
