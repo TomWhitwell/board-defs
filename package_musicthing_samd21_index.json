@@ -24,12 +24,12 @@
                         
                     ],
                     "category": "Music Thing",
-                    "checksum": "SHA-256:5c9a59ffaf68432c96af082b5ba1b42fa2942f09454be4a7c75cc3eaa99e806d",
+                    "checksum": "SHA-256:6f6c3e5123248321b74e5b130ee74d6ee2cc3f1080982aca86dfa045ad60fd2f",
                     "help": {
                         "online": "https://www.musicthing.co.uk"
                     },
                     "name": "Music Thing SAMD Boards",
-                    "size": "1481335",
+                    "size": "1325337",
                     "toolsDependencies": [
                         {
                             "name": "arm-none-eabi-gcc",
