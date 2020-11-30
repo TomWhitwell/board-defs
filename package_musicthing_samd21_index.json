@@ -11,8 +11,8 @@
 
                 {
                     "architecture": "samd",
-                    "version": "0.1.3",
-                    "archiveFileName": "musicthing_samd_0.1.3.zip",
+                    "version": "0.1.4",
+                    "archiveFileName": "musicthing_samd_0.1.4.zip",
                     "boards": [
                        
                         {
@@ -24,7 +24,7 @@
                         
                     ],
                     "category": "Music Thing",
-                    "checksum": "SHA-256:6f6c3e5123248321b74e5b130ee74d6ee2cc3f1080982aca86dfa045ad60fd2f",
+                    "checksum": "SHA-256:6ede93469b7ca81699bbb90236a2c1cd672a4e46b391338e269f7888dee534b5",
                     "help": {
                         "online": "https://www.musicthing.co.uk"
                     },
@@ -62,8 +62,8 @@
                             "version": "1.2.0"
                         }
                     ],
-                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.3.zip?raw=true",
-                    "version": "0.1.3"
+                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.4.zip?raw=true",
+                    "version": "0.1.4"
                 }
             ],
             "tools": [
