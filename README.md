@@ -3,7 +3,7 @@
 Notes on creating Arduino Board Definitions
 
 Create Zip without Apple cruft: 
-`zip -r data.zip . -x ".*" -x "__MACOSX"`  
+zip -r zipped.zip 0.1.5 -x "*.DS_Store" 
  (Run inside the folder to compress)
 
 Create Checksum:  
