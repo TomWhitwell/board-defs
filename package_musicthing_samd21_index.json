@@ -24,7 +24,7 @@
                         
                     ],
                     "category": "Music Thing",
-                    "checksum": "SHA-256:0f0c9088f0d56410fc2155c8c17167c406f557f8efe2cd4a392703a743dc385a",
+                    "checksum": "SHA-256:9b0e40c35e665eac5380ddc81ae13c5fb2ef3b6efe15b4a32e1de4dec4dbd1f5",
                     "help": {
                         "online": "https://www.musicthing.co.uk"
                     },
@@ -63,7 +63,7 @@
                         }
                     ],
                     "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.5.zip?raw=true",
-                    "version": "0.1.4"
+                    "version": "0.1.5"
                 }
             ],
             "tools": [
