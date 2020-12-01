@@ -1,12 +1,17 @@
 # board-defs
  
-Notes on creating Arduino Board Definitions
+Notes on collecting data for board definitions json file
 
 Create Zip without Apple cruft: 
-zip -r 0.1.5.zip 0.1.5 -x "*.DS_Store" 
+`zip -r musicthing_samd_0.1.9.zip 0.1.9 -x "*.DS_Store"` 
 
 Create Checksum:  
-`shasum -a 256 ubuntu.iso`
+`shasum -a 256 musicthing_samd_0.1.9.zip`
+
+Check size:  
+`ls -l` 
+
+
 
 
 
