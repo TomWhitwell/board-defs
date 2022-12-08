@@ -12,6 +12,10 @@ Check size:
 `ls -l` 
 
 
+Different versions are described as 'Platforms' in the json 
+* Each platform has common name / category / architecture 
+* But different version / URL / size / checksum 
+
 
 
 
