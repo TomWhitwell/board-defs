@@ -1,4 +1,10 @@
 # board-defs
+
+To install: 
+Add 
+`https://raw.githubusercontent.com/TomWhitwell/board-defs/master/package_musicthing_samd21_index.json
+`
+to the "Additional Boards Manager URLs" list in Arduino Preferences
  
 Notes on collecting data for board definitions json file
 
