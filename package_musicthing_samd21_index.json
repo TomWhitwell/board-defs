@@ -8,6 +8,59 @@
             "maintainer": "Music Thing",
             "name": "music thing",
             "platforms": [
+            {
+                    "architecture": "samd",
+                    "archiveFileName": "musicthing_samd_0.1.13.zip",
+                    "boards": [
+                        {
+                            "name": "Music Thing Modular MusicThing m0"
+                        },
+                        {
+                            "name": "Music Thing Modular MusicThing m0 Plus"
+                        }
+                    ],
+                    "category": "Music Thing",
+                    "checksum": "SHA-256:c2b6e8ac9c780c80c32f036faa97216382554e3ff6efbccbad419e0a40884291",
+                    "help": {
+                        "online": "https://www.musicthing.co.uk"
+                    },
+                    "name": "Music Thing SAMD Boards (includes 8mu)",
+                    "size": "1610629",
+                    "toolsDependencies": [
+                        {
+                            "name": "arm-none-eabi-gcc",
+                            "packager": "arduino",
+                            "version": "4.8.3-2014q1"
+                        },
+                        {
+                            "name": "bossac",
+                            "packager": "arduino",
+                            "version": "1.7.0"
+                        },
+                        {
+                            "name": "bossac",
+                            "packager": "arduino",
+                            "version": "1.8.0-48-gb176eee"
+                        },
+                        {
+                            "name": "openocd",
+                            "packager": "arduino",
+                            "version": "0.9.0-arduino"
+                        },
+                        {
+                            "name": "CMSIS",
+                            "packager": "arduino",
+                            "version": "4.5.0"
+                        },
+                        {
+                            "name": "CMSIS-Atmel",
+                            "packager": "arduino",
+                            "version": "1.2.0"
+                        }
+                    ],
+                    "url": "https://github.com/TomWhitwell/board-defs/blob/master/musicthing_samd_0.1.13.zip?raw=true",
+                    "version": "0.1.13"
+                },
                 {
                     "architecture": "samd",
                     "archiveFileName": "musicthing_samd_0.1.12.zip",
